@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/linkpets-base/base-eureka-service/base-eureka-service.iml" filepath="$PROJECT_DIR$/linkpets-base/base-eureka-service/base-eureka-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkpets-base/linkpets-base.iml" filepath="$PROJECT_DIR$/linkpets-base/linkpets-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkpets-platform.iml" filepath="$PROJECT_DIR$/linkpets-platform.iml" />
+    </modules>
+  </component>
+</project>
