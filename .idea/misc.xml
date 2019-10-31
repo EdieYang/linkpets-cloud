@@ -6,6 +6,9 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/linkpets-base/pom.xml" />
         <option value="$PROJECT_DIR$/linkpets-base/base-eureka-service/pom.xml" />
+        <option value="$PROJECT_DIR$/linkpets-base/base-gateway-service/pom.xml" />
+        <option value="$PROJECT_DIR$/linptes-monitor/pom.xml" />
+        <option value="$PROJECT_DIR$/linptes-monitor/monitor-admin-service/pom.xml" />
       </list>
     </option>
   </component>

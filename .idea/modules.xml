@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/linkpets-base/base-eureka-service/base-eureka-service.iml" filepath="$PROJECT_DIR$/linkpets-base/base-eureka-service/base-eureka-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkpets-base/base-gateway-service/base-gateway-service.iml" filepath="$PROJECT_DIR$/linkpets-base/base-gateway-service/base-gateway-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/linkpets-base/linkpets-base.iml" filepath="$PROJECT_DIR$/linkpets-base/linkpets-base.iml" />
       <module fileurl="file://$PROJECT_DIR$/linkpets-platform.iml" filepath="$PROJECT_DIR$/linkpets-platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linptes-monitor/linptes-monitor.iml" filepath="$PROJECT_DIR$/linptes-monitor/linptes-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linptes-monitor/monitor-admin-service/monitor-admin-service.iml" filepath="$PROJECT_DIR$/linptes-monitor/monitor-admin-service/monitor-admin-service.iml" />
     </modules>
   </component>
 </project>

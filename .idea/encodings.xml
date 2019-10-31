@@ -4,5 +4,8 @@
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/linkpets-base" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/linkpets-base/base-eureka-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkpets-base/base-gateway-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linptes-monitor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linptes-monitor/monitor-admin-service" charset="UTF-8" />
   </component>
 </project>
